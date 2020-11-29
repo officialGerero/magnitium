@@ -1,0 +1,33 @@
+<svg width="57" height="58" viewBox="0 0 57 58" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)" filter="url(#filter0_d)">
+<path d="M42.6641 13.282H40.9297V10.3914H38.0391V13.282H18.9609V10.3914H16.0703V13.282H14.3359C11.9451 13.282 10 15.2271 10 17.6179V43.0554C10 45.4463 11.9451 47.3914 14.3359 47.3914H42.6641C45.0549 47.3914 47 45.4463 47 43.0554V17.6179C47 15.2271 45.0549 13.282 42.6641 13.282ZM44.1094 43.0554C44.1094 43.8524 43.461 44.5007 42.6641 44.5007H14.3359C13.539 44.5007 12.8906 43.8524 12.8906 43.0554V23.9773H44.1094V43.0554ZM44.1094 21.0867H12.8906V17.6179C12.8906 16.821 13.539 16.1726 14.3359 16.1726H16.0703V19.0632H18.9609V16.1726H38.0391V19.0632H40.9297V16.1726H42.6641C43.461 16.1726 44.1094 16.821 44.1094 17.6179V21.0867Z" fill="#91ECC0"/>
+<path d="M18.3828 27.0125H15.4922V29.9031H18.3828V27.0125Z" fill="#91ECC0"/>
+<path d="M24.1641 27.0125H21.2734V29.9031H24.1641V27.0125Z" fill="#91ECC0"/>
+<path d="M29.9453 27.0125H27.0547V29.9031H29.9453V27.0125Z" fill="#91ECC0"/>
+<path d="M35.7266 27.0125H32.8359V29.9031H35.7266V27.0125Z" fill="#91ECC0"/>
+<path d="M41.5078 27.0125H38.6172V29.9031H41.5078V27.0125Z" fill="#91ECC0"/>
+<path d="M18.3828 32.7937H15.4922V35.6843H18.3828V32.7937Z" fill="#91ECC0"/>
+<path d="M24.1641 32.7937H21.2734V35.6843H24.1641V32.7937Z" fill="#91ECC0"/>
+<path d="M29.9453 32.7937H27.0547V35.6843H29.9453V32.7937Z" fill="#91ECC0"/>
+<path d="M35.7266 32.7937H32.8359V35.6843H35.7266V32.7937Z" fill="#91ECC0"/>
+<path d="M18.3828 38.575H15.4922V41.4656H18.3828V38.575Z" fill="#91ECC0"/>
+<path d="M24.1641 38.575H21.2734V41.4656H24.1641V38.575Z" fill="#91ECC0"/>
+<path d="M29.9453 38.575H27.0547V41.4656H29.9453V38.575Z" fill="#91ECC0"/>
+<path d="M35.7266 38.575H32.8359V41.4656H35.7266V38.575Z" fill="#91ECC0"/>
+<path d="M41.5078 32.7937H38.6172V35.6843H41.5078V32.7937Z" fill="#91ECC0"/>
+</g>
+<defs>
+<filter id="filter0_d" x="0" y="0.391357" width="57" height="57" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
+<feOffset/>
+<feGaussianBlur stdDeviation="5"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.413021 0 0 0 0 0.8125 0 0 0 0 0.619345 0 0 0 0.5 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+<clipPath id="clip0">
+<rect width="37" height="37" fill="white" transform="translate(10 10.3914)"/>
+</clipPath>
+</defs>
+</svg>
